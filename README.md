@@ -40,7 +40,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=baodv1001&show_icons=true">
 
 <a href="https://github.com/baodv1001">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baodv1001&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baodv1001&hide=jupyter%20notebook,html&langs_count=8&layout=compact" />
 </a>
 
 
