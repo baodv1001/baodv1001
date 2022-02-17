@@ -29,9 +29,9 @@
 
 - Mobile: **`Kotlin`**
 - Framework: **`WPF`**
-- Front-End:  **`HTML5`** **`SCSS`** **`Javascript`**
-- Back-End: **`.Net`**
-- Database: **`MySQL`** **`MSSQL`**
+- Front-End: **`Javascript`** **`Reactjs`** 
+- Back-End: **`.Net`** **`Nodejs`**
+- Database: **`MySQL`** **`MSSQL`** **`Postgresql`**
 - Others: **`Firebase`** 
 
 
