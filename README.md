@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:dovanbaoc1@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/baodv1001/)](https://www.linkedin.com/in/baodv1001/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://github.com/baodv1001)](https://github.com/baodv1001)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buihuudat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="buihuudat" /> </p>
 
 
 - 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
@@ -52,8 +52,8 @@
 <table>
 <tbody>
 <tr>
-<a href="https://github.com/baodv1001/FashionEcommerceMobileApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baodv1001&repo=FashionEcommerceMobileApp" />
+<a href="https://github.com/baodv1001/TrendBot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baodv1001&repo=TrendBot" />
 </a>
 </tr>
 <a href="https://github.com/baodv1001/FootballFieldManagement">
@@ -61,11 +61,15 @@
 </a>
 </tr>
 <tr>
-<a href="https://github.com/baodv1001/GemstonesBusinessManagementSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baodv1001&repo=GemstonesBusinessManagementSystem" />
+<a href="https://github.com/baodv1001/HIFI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baodv1001&repo=HIFI" />
 </a>
 </tr>
 <tr>
+<a href="https://github.com/baodv1001/CovCare">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baodv1001&repo=CovCare" />
+</a>
+</tr>
 </tbody>
 </table>
 </details>
