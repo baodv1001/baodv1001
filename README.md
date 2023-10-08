@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buihuudat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="buihuudat" /> </p>
 
 
-- 👨‍🎓 I’m currently a `Software Engineering` student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
-- 💻 I have `3 years` study and practice in `Software Development`
+- 👨‍🎓 I’ve graduated from [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+- 💻 I have `4 years` study and work in `Software Development`
 - 🌱 I love learning about Science and Technology
 - 👯 I like playing sports such as soccer, badminton,... and playing video games 
 - 💬 Ask me about anything, I am happy to help
